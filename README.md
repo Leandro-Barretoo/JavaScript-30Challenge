@@ -3,6 +3,10 @@
 In this challenge I will make a little project each day for the next 30 days.
 The reason behind it is to improve technical skills.
 
+## Content
+
+- Day 1 -> JavaScript Drum Kit
+
 ## Built With
 
 - Front-End Technologies: HTML5, CSS3, JavaScript
